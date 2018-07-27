@@ -1,0 +1,9 @@
+cd .\code\
+ls
+notepad start.ps1
+index.html
+notepad Dockerfile
+ren .\Dockerfile.txt .\Dockerfile
+docker build -t mytweetapp .
+docker images
+docker run -p 80:80 mytweetapp:latest
