@@ -1,0 +1,11 @@
+C:\Users\zekeLabs\WeatherMicroservice\bin\Debug\netcoreapp2.0\WeatherMicroservice.deps.json
+C:\Users\zekeLabs\WeatherMicroservice\bin\Debug\netcoreapp2.0\WeatherMicroservice.runtimeconfig.json
+C:\Users\zekeLabs\WeatherMicroservice\bin\Debug\netcoreapp2.0\WeatherMicroservice.runtimeconfig.dev.json
+C:\Users\zekeLabs\WeatherMicroservice\bin\Debug\netcoreapp2.0\WeatherMicroservice.dll
+C:\Users\zekeLabs\WeatherMicroservice\bin\Debug\netcoreapp2.0\WeatherMicroservice.pdb
+C:\Users\zekeLabs\WeatherMicroservice\obj\Debug\netcoreapp2.0\WeatherMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\zekeLabs\WeatherMicroservice\obj\Debug\netcoreapp2.0\WeatherMicroservice.AssemblyInfoInputs.cache
+C:\Users\zekeLabs\WeatherMicroservice\obj\Debug\netcoreapp2.0\WeatherMicroservice.AssemblyInfo.cs
+C:\Users\zekeLabs\WeatherMicroservice\obj\Debug\netcoreapp2.0\WeatherMicroservice.dll
+C:\Users\zekeLabs\WeatherMicroservice\obj\Debug\netcoreapp2.0\WeatherMicroservice.pdb
+C:\Users\zekeLabs\WeatherMicroservice\obj\Debug\netcoreapp2.0\WeatherMicroservice.csprojResolveAssemblyReference.cache
