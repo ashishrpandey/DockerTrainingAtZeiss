@@ -1,0 +1,11 @@
+
+Accessing Manager node at ACS:
+
+docker -H 1722.16.0.5:2375 images
+docker -H 1722.16.0.5:2375 run 	--name nginxhttp1 -d  -p 80:80 nginx 
+docker -H 1722.16.0.5:2375  ps
+ 
+ 
+ Service fabric 
+ https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-quickstart-containers
+ 
